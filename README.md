@@ -29,5 +29,3 @@ A simple, fast and lightweight note-taking app for **Windows**, built entirely w
 
 Got ideas, found a bug, or want to contribute?  
 Feel free to open an issue or pull request on GitHub! Contributions welcome!
-
-"Test" 
